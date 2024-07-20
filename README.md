@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7cab8c60-d763-4997-81a8-03e3dd37505a)# task2-Intelligence
+
 # introduction
 ## Download the turtle package and run 
 # Implementation steps
