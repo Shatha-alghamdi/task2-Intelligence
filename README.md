@@ -19,7 +19,7 @@ To see the list of currently running nodes, we run the command "rosnode list", a
 Now, we opened another new Terminal window to check some other functions.We wrote the "rostopic echo /turtle/pose" command to see the published messages to the turtle.
 ![image](https://github.com/user-attachments/assets/21fd7422-26bd-43dd-b93e-071f64944cba)
 
-
-
 Now, we are running the "rosrun turtlesim draw_square", which is already available in the package. Once we execute this command, the turtle will move in a square.
+
+
 ![image](https://github.com/user-attachments/assets/0285e953-cd63-4daa-b8b3-e2bc9ad36047)
