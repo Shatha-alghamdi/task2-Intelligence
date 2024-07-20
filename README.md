@@ -1,7 +1,7 @@
 
 # introduction
-## Download the turtle package and run 
-# Implementation steps
+## Download the turtlesim package and run 
+# Implementation steps:
 First, we logged in to the system and opened the Terminal window (we have opened two terminal windows next to each other).
 In one of these two windows, we have run the "roscore" command to start the ROS master. Now, the ROS master should be running on the system.
 ![image](https://github.com/user-attachments/assets/46ea634d-236f-4896-b666-8462f92f4c92)
